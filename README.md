@@ -179,30 +179,30 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Home Page
 
-![Overall Report.png](https://github.com/HarshTyagiv19/Business-Insight-360/blob/main/power%20bi%20360%20resources/Home.png)
+![Overall Report.png](https://github.com/JatinTyagiv10/BI360/blob/main/power%20bi%20360%20resources/Home.png)
 
 ## Info Page
 
-![Info.png](https://github.com/HarshTyagiv19/Business-Insight-360/blob/main/power%20bi%20360%20resources/info.png)
+![Info.png](https://github.com/JatinTyagiv10/BI360/blob/main/power%20bi%20360%20resources/info.png)
 
 ## Finance View
 
-![Finace.png](https://github.com/HarshTyagiv19/Business-Insight-360/blob/main/power%20bi%20360%20resources/Finance.png)
+![Finace.png](https://github.com/JatinTyagiv10/BI360/blob/main/power%20bi%20360%20resources/Finance.png)
 ## Sales View
 
-![Sales.png](https://github.com/HarshTyagiv19/Business-Insight-360/blob/main/power%20bi%20360%20resources/sales.png)
+![Sales.png](https://github.com/JatinTyagiv10/BI360/blob/main/power%20bi%20360%20resources/sales.png)
 
 ## Marketing View
 
-![Marketing.png](https://github.com/HarshTyagiv19/Business-Insight-360/blob/main/power%20bi%20360%20resources/Marketing.png)
+![Marketing.png](https://github.com/JatinTyagiv10/BI360/blob/main/power%20bi%20360%20resources/Marketing.png)
 
 ## Supply chain View
 
-![Supply chain.png](https://github.com/HarshTyagiv19/Business-Insight-360/blob/main/power%20bi%20360%20resources/supply%20chain.png)
+![Supply chain.png](https://github.com/JatinTyagiv10/BI360/blob/main/power%20bi%20360%20resources/supply%20chain.png)
 
 ## Executive View
 
-![Executive.png](https://github.com/HarshTyagiv19/Business-Insight-360/blob/main/power%20bi%20360%20resources/Executive.png)
+![Executive.png](https://github.com/JatinTyagiv10/BI360/blob/main/power%20bi%20360%20resources/Executive.png)
 
 
 
