@@ -158,7 +158,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. 
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="https://github.com/HarshTyagiv19/Business-Insight-360/blob/main/power%20bi%20360%20resources/Model.png" class="center">
+<img src="https://github.com/JatinTyagiv10/BI360/blob/main/power%20bi%20360%20resources/Model.png" class="center">
 
 ### Dashboard designing
 
